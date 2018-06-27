@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+    background-color: lightgrey
+   
+ }
+h1 {
+    background-color: rgba(137, 43, 226, 0.479)
+}
+.jumbotron {
+     background-color: rgb(85, 83, 83)
+}
